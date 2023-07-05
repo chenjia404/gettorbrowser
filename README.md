@@ -1,8 +1,8 @@
 This repository contains TorBrowser Releases.
 
 releases by tag:
-
-https://github.com/chenjia404/gettorbrowser/releases
+ 
+Here is always the latest version of TorBrowser download, including signature :https://api.github.com/repos/chenjia404/gettorbrowser/releases/latest  https://github.com/chenjia404/gettorbrowser/releases
 
 If you cannot find the files you are looking for please check also our other mirrors:
 

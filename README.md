@@ -1,6 +1,8 @@
 This repository contains TorBrowser Releases.
 
-TorBrowser releases are stored in a separate branch: https://github.com/TheTorProject/gettorbrowser/tree/torbrowser-releases
+releases by tag:
+
+https://github.com/chenjia404/gettorbrowser/releases
 
 If you cannot find the files you are looking for please check also our other mirrors:
 

@@ -1,3 +1,4 @@
+[English](./README.md) | [简体中文](./README.zh-CN.md) 
 This repository contains TorBrowser Releases.
 
 releases by tag:

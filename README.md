@@ -12,6 +12,8 @@ https://api.github.com/repos/chenjia404/gettorbrowser/releases/latest
 
 https://ipfs.io/ipns/k51qzi5uqu5dk1ov8lldh7sggdec29vcfghfarf9eroxbmo8phnsy8au2vtchm/
 
+resilio sync: BJIWT7Y2JMXUYFCOJEITSG7BTWZLN7X5I
+
 If you cannot find the files you are looking for please check also our other mirrors:
 
 - Gitlab: https://gitlab.com/thetorproject/gettorbrowser/tree/torbrowser-releases/

@@ -14,7 +14,7 @@ function geturl($url){
     $output = json_decode($output,true);
     return $output;
 }
-
+$tag = "12.5.1";
 $data = geturl("https://api.github.com/repos/TheTorProject/gettorbrowser/releases");
 foreach($data as $release){
     $time = strtotime($release['published_at']);
@@ -39,3 +39,6 @@ foreach($data as $release){
         }
     }
 }
+
+
+echo exec("ipfs add -r $tag");
